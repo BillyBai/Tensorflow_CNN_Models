@@ -151,9 +151,9 @@ Test 10 crop: cross entropy loss: 19.11319, l2 loss: 0.44924, accuracy: 0.87442
 -----------------------------------------------------------------------------------------
 ```
 
-[![image]](https://github.com/BillyBai/Tensorflow_CNN_Models/blob/master/result/log/ResNet50_v1_Pretrain_Tricks_accuracy.jpg)
+![image](https://github.com/BillyBai/Tensorflow_CNN_Models/blob/master/result/log/ResNet50_v1_Pretrain_Tricks_accuracy.jpg)
 
-[![image]](https://github.com/BillyBai/Tensorflow_CNN_Models/blob/master/result/log/ResNet50_v1_Pretrain_Tricks_loss.jpg)
+![image](https://github.com/BillyBai/Tensorflow_CNN_Models/blob/master/result/log/ResNet50_v1_Pretrain_Tricks_loss.jpg)
 
 result/log/ResNet50_v1_Pretrain_Tricks_loss.jpg
 
